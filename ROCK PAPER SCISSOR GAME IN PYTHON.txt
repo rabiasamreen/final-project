@@ -1,0 +1,7 @@
+WORK FLOW OF PROJECT
+ INPUT From user( Rock,Paper,scisser)
+ Result print
+ import random
+item _list=["Rock","paper","scissor",]
+user choice=input("Enteryour move=Rock,paper,scissor,")
+comp _choice=random_choice(item_list)
